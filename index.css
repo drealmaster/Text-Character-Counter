@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #36096d;
+    background-image: linear-gradient(315deg, #36096d 0%, #37d5d6 74%);
+}
+
+textarea{
+    outline: none;
+    border: none;
+    width: 80%;
+    height: 100px;
+    padding: 1rem;
+}
+
+span{
+    font-size: 1rem;
+}
+
+i{
+    cursor: pointer;
+}
+
+.btn-dis{
+    opacity: 0.4;
+}
+
